@@ -1,0 +1,9 @@
+☝ Los arreglos son cajitas
+.
+No olvides que podemos ver a los arreglos de la misma forma que a las variables, como cajitas. ¡Pero lo genial de estos es que podemos guardar varios valores ahí dentro!
+.
+¿Y cómo los accedemos? Por medio de una cosita llamada “subíndice”. ¡No olvides que todos los arreglos empiezan en 0! A través del subíndice podemos decir cuál de todos los valores que yo tengo guardado dentro de mi cajita quiero usar 😎
+.
+¿Y para qué me sirven los arreglos? Para absolutamente todo, esta es la forma en la cual podemos atender solicitudes que lleguen desde el Frontend (que veremos en próximos cursos 😏) y también es la forma en la cual podemos agrupar ciertos datos, por ejemplo, podemos agrupar una lista con los nombres de varias personas, son simplemente una maravilla en la programación 😄.
+.
+¿Qué otros usos crees que podamos darles a los arreglos? 👀
